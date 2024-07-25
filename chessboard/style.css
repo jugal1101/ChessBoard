@@ -1,0 +1,61 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main
+{
+    height: 100px;
+    width: 100%;
+
+}
+.black
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float: left;
+}
+.white
+{
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+   float: left;
+}
+.main2
+{
+    height: 100px;
+    width: 100%;
+}
+.main3
+{
+    height: 100px;
+    width: 100%;
+}
+.main4
+{
+    height: 100px;
+    width: 100%;
+}
+.main5
+{
+    height: 100px;
+    width: 100%;
+}
+.main6
+{
+    height: 100px;
+    width: 100%;
+}
+.main7
+{
+    height: 100px;
+    width: 100%;
+}
+.main8
+{
+    height: 100px;
+    width: 100%;
+}
